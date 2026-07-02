@@ -40,7 +40,7 @@
 /* HERO */
 .hero{
   /* margin-top:80px; */
-  background:url("image/bannerbg.webp") no-repeat center/cover;
+  background:url("bannerbg.webp") no-repeat center/cover;
   padding:80px 0;
   padding-bottom: 0;
 }
@@ -1192,7 +1192,7 @@ margin-top: 26px;
 }
 
 .certificate-card{
-  background:url('image/certificate_bg.webp') no-repeat;
+  background:url('certificate_bg.webp') no-repeat;
   background-size:cover;
   background-position:center;
   border-radius:50px;
